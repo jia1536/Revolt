@@ -1,0 +1,53 @@
+{
+    "Apple__Apple_scab": "Remove infected leaves and debris. Apply fungicides such as Captan or Mancozeb to prevent further spread.",
+    "Apple__Black_rot": "Prune dead or infected branches and apply copper-based fungicides or thiophanate-methyl.",
+    "Apple__Cedar_apple_rust": "Prune affected parts and apply a fungicide containing myclobutanil or chlorothalonil.",
+    "Apple__healthy": "No action needed. The plant is healthy. Keep the environment favorable.",
+    
+    "Blueberry_healthy": "No action needed. The plant is healthy. Keep soil slightly acidic.",
+    
+    "Cherry_(including_sour)__Powdery_mildew": "Prune infected parts and apply fungicides containing sulfur or myclobutanil.",
+    "Cherry_(including_sour)__healthy": "No action needed. Ensure proper watering and prevent excess moisture.",
+    
+    "Corn_(maize)__Cercospora_leaf_spot Gray_leaf_spot": "Remove affected leaves and rotate crops. Use resistant hybrids and fungicides like chlorothalonil or copper-based solutions.",
+    "Corn_(maize)__Common_rust": "Remove infected leaves and apply fungicides with active ingredients like azoxystrobin or tebuconazole.",
+    "Corn_(maize)__Northern_Leaf_Blight": "Remove infected plants and avoid working in wet fields. Apply fungicides such as Propiconazole.",
+    "Corn_(maize)__healthy": "No action needed. The plant is healthy. Maintain good irrigation and fertilization.",
+    
+    "Grape__Black_rot": "Prune infected canes and apply fungicides containing sulfur or copper.",
+    "Grape__Esca_(Black_Measles)": "Prune infected canes and apply fungicides containing sulfur or copper.",  
+    "Grape__Leaf_blight_(Isariopsis_Leaf_Spot)": "Prune infected leaves and apply fungicides with mancozeb or myclobutanil.",
+    "Grape__healthy": "No action needed. Maintain proper irrigation and avoid over-fertilizing.",
+    
+    "Orange__Haunglongbing_(Citrus_greening)": "Remove infected plants, use systemic insecticides like imidacloprid, and control psyllids to prevent spread.",
+    
+    "Peach__Bacterial_spot": "Remove infected leaves and fruit. Apply copper-based bactericides.",
+    "Peach__healthy": "No action needed. Maintain proper care and avoid overwatering.",
+    
+    "Pepper,_bell__Bacterial_spot": "Remove infected parts and apply copper-based bactericides.",
+    "Pepper,_bell__healthy": "No action needed. Keep the plant in well-drained soil and provide adequate sunlight.",
+    
+    "Potato__Early_blight": "Remove affected leaves and apply fungicides containing chlorothalonil or mancozeb.",
+    "Potato__Late_blight": "Destroy infected plants immediately and apply copper-based fungicides or metalaxyl.",
+    "Potato__healthy": "No action needed. The plant is healthy. Keep soil well-drained and provide proper nutrition.",
+    
+    "Raspberry__healthy": "No action needed. The plant is healthy. Ensure proper pruning and maintain good soil drainage.",
+    
+    "Soybean__healthy": "No action needed. The plant is healthy. Provide adequate nutrients and avoid waterlogging.",
+    
+    "Squash__Powdery_mildew": "Remove infected leaves and apply fungicides containing sulfur or potassium bicarbonate.",
+    
+    "Strawberry__Leaf_scorch": "Remove affected leaves and water at the base of the plant to avoid leaf wetness.",
+    "Strawberry__healthy": "No action needed. Ensure proper watering and mulch to maintain soil moisture.",
+    
+    "Tomato__Bacterial_spot": "Remove infected leaves and apply copper-based bactericides.",
+    "Tomato__Early_blight": "Remove infected leaves and apply fungicides containing chlorothalonil or mancozeb.",  
+    "Tomato__Late_blight": "Destroy infected plants and use fungicides containing chlorothalonil or mancozeb.",
+    "Tomato__Leaf_Mold": "Remove affected leaves and apply fungicides containing chlorothalonil or mancozeb.",
+    "Tomato__Septoria_leaf_spot": "Prune infected leaves and apply fungicides such as chlorothalonil or copper-based fungicides.",
+    "Tomato__Spider_mites Two-spotted_spider_mite": "Use insecticidal soap or miticides to control the spider mite infestation.",
+    "Tomato__Target_Spot": "Prune affected areas and apply fungicides containing chlorothalonil or mancozeb.",
+    "Tomato__Tomato_Yellow_Leaf_Curl_Virus": "Remove and destroy infected plants. Use resistant varieties.",
+    "Tomato__Tomato_mosaic_virus": "Remove infected plants immediately to prevent spreading and use virus-resistant varieties.",
+    "Tomato__healthy": "No action needed. The plant is healthy. Keep the plant well-watered and provide balanced fertilization."
+}
