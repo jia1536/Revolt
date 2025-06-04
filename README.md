@@ -10,10 +10,10 @@ Revolt is a smart farming assistant that:
 - Suggests remedies using a local remedies database
 
 ## Features
-Crop recommendation using ML models (XGBoost, SVM)
-Plant disease detection using CNN-based DL models
-Remedies and treatments suggestions for detected diseases
-User-friendly interface for easy interaction
+- Crop recommendation using ML models (XGBoost, SVM)
+- Plant disease detection using CNN-based DL models
+- Remedies and treatments suggestions for detected diseases
+- User-friendly interface for easy interaction
 
 ## Repository Structure
 - `crop_analysis_and_prediction_.ipynb` - Crop recommendation model
